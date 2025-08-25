@@ -1,0 +1,4 @@
+# Tkinter is built-in
+# sqlite3 is built-in
+# PyInstaller is used for packaging
+pyinstaller
