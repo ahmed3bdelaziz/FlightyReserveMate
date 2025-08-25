@@ -12,7 +12,6 @@ A simple desktop application for flight reservation, built with Tkinter and SQLi
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ---
