@@ -97,12 +97,6 @@ Contributions are welcome! If you spot issues or want to add features, feel free
 4. Push to your branch
 5. Open a Pull Request
 
----
-
-## License
-
-<!-- Please specify your license (e.g., MIT, GPL, etc.) -->
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
